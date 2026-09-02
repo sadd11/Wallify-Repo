@@ -2,7 +2,7 @@
   "name": "DVD Screensaver",
   "description": "Классический прыгающий логотип, меняющий цвет при столкновении с краями экрана.",
   "author": "wafuv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.0.0",
   "cover": "cover.png",
   "icon": "icon.png",
